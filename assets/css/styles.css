@@ -1,10 +1,10 @@
 /* Captive Power Decarbonization Platform — prototype styles
-   Design family: Power Transformation Lab (pwrlab.org) — charcoal #272636 + coral #fc4d50,
+   Design family: Power Transformation Lab (pwrlab.org) — charcoal #272636 + terracotta #d4522a,
    evolved with a coal-vs-clean energy axis (charcoal coal / teal clean / blue grid). */
 
 :root {
   --coal:   #272636;  /* brand ink + "coal" */
-  --coral:  #fc4d50;  /* accent */
+  --coral:  #d4522a;  /* accent — warm terracotta, less harsh than #fc4d50 */
   --clean:  #1d9e75;  /* on-site renewables */
   --grid:   #378add;  /* grid connection */
   --amber:  #ef9f27;  /* medium readiness */
